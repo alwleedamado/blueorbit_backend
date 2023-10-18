@@ -37,7 +37,7 @@ export default {
             type: 'string'
         },
         {
-            name: 'postedby',
+            name: 'postedBy',
             title: 'PostedBy',
             type: 'postedBy'
         },

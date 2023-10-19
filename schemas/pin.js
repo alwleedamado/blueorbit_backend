@@ -32,7 +32,7 @@ export default {
             },
         },
         {
-            name: 'userid',
+            name: 'userId',
             title: 'UserID',
             type: 'string'
         },
